@@ -1,4 +1,5 @@
-### Hi there 👋
+Antti Pikkarainen
+Programming/cybersecurity student
 
 <!--
 **Antp1k/Antp1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
